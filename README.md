@@ -8,7 +8,7 @@ Once the user guesses the correct number of files in the current directory
 they should be congratulated and the program should end.
 
 **Make date**: 
-Dom 17 Apr 2022 22:17:58 CEST
+Gio 21 Apr 2022 00:57:21 CEST
 
 **Number of lines in guessinggame.sh:** 
-26
+37
